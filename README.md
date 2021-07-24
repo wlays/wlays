@@ -1,6 +1,8 @@
 ### Hi there 👋
 :mountain: Currently, building Ajaib to be the best investment platform for Indonesians!
+
 🌱 Learning how to build and grow a world-class engineering organization
+
 :blue_heart: "it is harder to be kind than it is to be clever"
 
 <!--
