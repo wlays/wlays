@@ -1,5 +1,5 @@
 ### Hi there 👋
-:mountain: Building a world-class engineering organization for Ajaib to be the best investment platform for Indonesians
+:mountain: Building Ajaib to be the best Indonesian financial investment platform via a world-class engineering organization
 
 :blue_heart: "it is harder to be kind than it is to be clever"
 
